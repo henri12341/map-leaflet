@@ -1,0 +1,38 @@
+Name;Country;Location;Cap.(MW);No.;Model;Project;Strike Price;Build cost;Cap. Fac;Depth range;km to shore;Owner
+Barrow;England;53.983333, -3.283333;90;30;Vestas V90-3.0MW;July 2006;;£123m;35.9%[4];15–20;7;Ørsted
+Beatrice;Scotland;58.105556, -3.093056;10;2;REpower 5M;July 2007;;£35m;0,2;45;23;SSE, Talisman Energy
+Beatrice extension;Scotland;58.105556, -3.093056;588;84;Siemens Gamesa 7MW;July 2019;140;£2,600m;;45;23;SSE Talisman Energy
+Burbo Bank;England;53.483333, -3.183333;90;25;Siemens SWP 3.6–107;September 2007;;£90m;32–35%;0–6;7;Ørsted
+Burbo Bank Extension;England;53.483333, -3.183333;258;32;Vestas V164 8.0 MW;April 2017;;;;6–13;;Ørsted
+Dudgeon;England;53.25, 1.383333;402;67;Siemens SWT-6.0–154;October 2017;;£1,500m;0,48;;;Equinor, Statkraft
+East Anglia One;England;52.234444, 2.488333;714;102;Siemens SWT-7.0-154;2020;119.89;;;;43;
+European Offshore Wind Deployment Centre;Scotland;57.216667, -1.983333;93;11;Vestas V164-8MW;September 2018;;;;32;3;European Offshore Wind Deployment Centre
+Greater Gabbard;England;51.933333, 1.883333;504;140;Siemens SWT-3.6–107;September 2012;;£1,500m;42.2%[4];20–32;23;SSE Renewables
+Gunfleet Sands 1 & 2;England;51.716667, 1.213889;172;48;Siemens SWP-3.6–107;April 2010;;£300m;36.6%;2–15;7;Ørsted
+Gunfleet Sands 3 – Demonstration Project;England;51.716667, 1.213889;12;2;Siemens SWT-6.0 120;April 2013;;£51m;31.1%;5–12;8;Ørsted
+Gwynt y Môr;Wales;53.45, -3.583333;576;160;Siemens SWT-3.6 107;June 2015;;>£2,000m;31.7%;20;17;RWE Npower, Stadtwerke München, GIB, Siemens
+Hornsea One;England;53.885, 1.791111;1218;174;Siemens SWT-7.0-154;2020;140;£;;;;
+Hornsea Two;England;53.885, 1.791111;1386;165;Siemens 8MW SG 8.0-167 DD;August 2022 [21];57.50;;;25-30;120;Ørsted, Global Infrastructure Partners
+Humber Gateway;England;53.643889, 0.293056;219;73;Vestas V112 3.0MW;June 2015;;£736m;41.1%;15;10;E.ON
+Hywind Scotland;Scotland;57.483333, -1.35;30;5;Siemens SWT-6.0-154 6MW;October 2017;;NOK2 billion (£152m);0,54;95–120;25;Equinor, Masdar
+Kentish Flats;England;51.46, 1.09;140;30;30x Vestas V90-3.0MW;October 2005;;£121.5m;31.3%, 42.9%[4];3–5;10;Vattenfall
+Lincs;England;53.183333, 0.483333;270;75;Siemens SWT-3.6–120;September 2013;;£1,000m;0,42;10–15;8;Centrica, Siemens, Ørsted
+London Array;England;51.643889, 1.553611;630;175;Siemens SWT-3.6;April 2013;;£1,800m;41.1%[4];0–25;20;Ørsted, E.ON UK Renewables, Masdar
+Lynn and Inner Dowsing;England;53.1275, 0.436111;194;54;Siemens SWP-3.6–107;March 2009;;£300m;34.9%;6–11;5;Centrica 50%
+Methil;Scotland;56.162778, -3.008889;7;1;Samsung 7 MW;October 2013;;;;5;0.05;Samsung, 2-B Energy
+Moray East;Scotland;58.1, -2.8;950;100;Vestas v164-9.5 MW;April 2022 [28];57.50;;;25-30;120;Ørsted, Global Infrastructure Partners
+North Hoyle;Wales;53.433333, -3.4;60;30;Vestas V80-2MW;December 2003;;£80m;31.5%;5–12;7;Greencoat UKW
+Ormonde;England;54.1, -3.4;150;30;REpower 5MW;August 2012;;£552m;39.5%[4];17–22;45055;Vattenfall
+Race Bank;England;53.275, 0.841667;580;91;Siemens SWT-6.0–154;February 2018;;;;;;Ørsted
+Rampion;England;50.666667, -0.266667;400;116;Vestas V112-3.45MW;April 2018;;£1,300m;;;13;E.ON
+Rhyl Flats;Wales;53.366667, -3.65;90;25;Siemens SWP 3.6–107;December 2009;;£198m;32.9%[4];4–15;8;Npower (UK) (RWE)
+Robin Rigg;Scotland;54.75, -3.716667;180;60;Vestas V90-3.0MW;April 2010;;£396m;35.1%[4];0–12;11;E.ON
+Scroby Sands;England;52.633333, 1.783333;60;30;Vestas V80-2MW;March 2004;;£75.5m;30.7%[4];0–8;45048;E.ON
+Sheringham Shoal;England;53.116667, 1.133333;317;88;Siemens SWT-3.6–107;September 2012;;£1,100m;40.7%[4];12–24;17;Equinor 50%
+Teesside;England;54.647222, -1.094444;62;27;Siemens SWT-2.3;August 2013;;£200m;34.8%;7–15;45047;EDF-EN
+Thanet;England;51.433333, 1.633333;300;100;Vestas V90-3.0MW;September 2010;;£900m;32.8%;20–25;11;Vattenfall
+Triton Knoll;England;53.5, 0.8;857;90;Vestas v164-9.5 MW;March 2022[41];74.75;;;;33;RWE
+Walney;England;54.05, -3.516667;367;102;Siemens SWP 3.6–107;February 2010;;£630m;40.5%, 43.8%[4];19–30;14;Ørsted, SSE, OPW
+Walney Extension;England;54.088056, -3.738056;659;47;47x Siemens SWT-7.0-154, 40× MHI Vestas V164-8.25 MW;September 2018;150.00;;;;;Ørsted
+Westermost Rough;England;53.805, 0.148889;210;35;Siemens SWT-6.0–154;May 2015;;£370m;42.9%[4];15;10;Ørsted, Marubeni, GIB
+West of Duddon Sands;England;53.983333, -3.466667;389;108;Siemens SWP 3.6–120;October 2014;;£1,600m;44.2%[4];17–24;15;Ørsted, Scottish Power
