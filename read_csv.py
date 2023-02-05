@@ -13,7 +13,8 @@ for row in file:
         coordinate[1] = float(coordinate[1])
         capacity = parts[3]
         wind_turbines = parts[4]
-        result.append([name, coordinate, capacity, wind_turbines])
+        project_comissioning = parts[6]
+        result.append([name, coordinate, capacity, wind_turbines, project_comissioning])
     i += 1
 
 print(f"wind farms = {result}")

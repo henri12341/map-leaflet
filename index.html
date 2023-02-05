@@ -17,43 +17,21 @@
 </html>
 
 <script>
-    var map = L.map('map').setView([51.505, -0.09], 13);
+    var map = L.map('map').setView([54.5, -4.09], 6);
 
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    var array = [[51.5, -0.09], [51.51, -0.09], [51.49, 0], [53.983333, -3.283333]]
+    var array = get_wind_farms()
 
     for (var i = 0; i < array.length; i++) {
-        var marker = L.marker(array[i]).addTo(map);
-        marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+        var marker = L.marker(array[i][1]).addTo(map);
+        marker.bindPopup(`<b>${array[i][0]}</b><br>Capacity = ${array[i][2]} MW<br>
+        Wind Turbines = ${array[i][3]}`).openPopup();
     }
 
-    console.log(get_wind_farms())
-
-    var polygon = L.polygon([
-    [51.509, -0.08],
-    [51.503, -0.06],
-    [51.51, -0.047]
-    ]).addTo(map);
-
-    var circle = L.circle([51.508, -0.11], {
-    color: 'red',
-    fillColor: '#f03',
-    fillOpacity: 0.5,
-    radius: 500
-    }).addTo(map);
-
-
-    circle.bindPopup("I am a circle.");
-    polygon.bindPopup("I am a polygon.");
-
-    var popup = L.popup()
-    .setLatLng([51.513, -0.09])
-    .setContent("I am a standalone popup.")
-    .openOn(map);
 
     function onMapClick(e) {
         console.log("You clicked the map at " + e.latlng);
