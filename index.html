@@ -10,14 +10,17 @@
         crossorigin=""></script>
         <link rel="stylesheet" href="style.css"></link>
         <script src="wind_farms.js"></script>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial_scale=1.0" />
     </head>
     <body>
+          <h1>Wind Farms UK</h1>
          <div id="map"></div>
     </body>
 </html>
 
 <script>
-    var map = L.map('map').setView([54.5, -4.09], 6);
+    var map = L.map('map').setView([54.5, -4.09], 5);
 
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
